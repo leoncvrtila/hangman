@@ -1,0 +1,21 @@
+.RestartBtn {
+  padding: 10px 20px;
+  background: #da3131;
+  border: 1px solid #da3131;
+  border-radius: 5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: auto;
+  color: white;
+  margin-top: 2%;
+}
+
+.RestartBtn:hover {
+  background: #eb3e3e;
+  cursor: pointer;
+}
+/*# sourceMappingURL=restart.css.map */

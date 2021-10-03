@@ -1,0 +1,13 @@
+.LeaderBoard {
+  width: 8%;
+  border: 1px solid black;
+  padding: 0.5% 1%;
+  margin: auto;
+  margin-top: 2%;
+  text-align: center;
+}
+
+.LeaderBoard > div {
+  margin: 8% 0%;
+}
+/*# sourceMappingURL=leaderBoard.css.map */

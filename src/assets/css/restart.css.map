@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACR,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,OAAO;EACnB,MAAM,EAAE,iBAAiB;EACzB,aAAa,EAAE,GAAG;EAClB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,MAAM,EAAE,IAAI;EACZ,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,EAAE;CACjB;;AAED,AAAA,WAAW,AAAA,MAAM,CAAC;EACd,UAAU,EAAE,OAAO;EACnB,MAAM,EAAE,OAAO;CAClB",
+    "sources": [
+        "restart.scss"
+    ],
+    "names": [],
+    "file": "restart.css"
+}
