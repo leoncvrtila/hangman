@@ -135,7 +135,9 @@ const TotalScore = () => {
                 
             }
 
-            setPlayersData([...newData])
+            if(playersData.length === 0) {
+                setPlayersData([...newData])
+            }
 
         })
         .catch((error) => {
